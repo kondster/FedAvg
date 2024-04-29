@@ -1,4 +1,3 @@
-```
 # Federated Averaging (FedAvg) Implementation on CIFAR-10
 
 This repository contains an implementation of the Federated Averaging (FedAvg) algorithm using the CIFAR-10 dataset. FedAvg is a federated learning technique designed to train a machine learning model collaboratively without requiring participants to share their data.
@@ -30,14 +29,13 @@ The implementation is split into several Python scripts, each handling a part of
 
 ## Project Structure
 
-```
 .
-├── helper.py       # Helper functions for model and data handling
-├── client.py       # Client class implementation
-├── server.py       # Server class implementation and Flask setup
-├── run_client.py   # Script to run client operations
-└── README.md       # Project documentation
-```
+├── helper.py # Helper functions for model and data handling
+├── client.py # Client class implementation
+├── server.py # Server class implementation and Flask setup
+├── run_client.py # Script to run client operations
+└── README.md # Project documentation
+
 
 ## Execution Instructions
 
@@ -77,4 +75,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## License
 
 This project is open-sourced under the MIT license. See the `LICENSE` file for more details.
-```
