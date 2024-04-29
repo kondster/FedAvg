@@ -1,4 +1,4 @@
-```markdown
+```
 # Federated Averaging (FedAvg) Implementation on CIFAR-10
 
 This repository contains an implementation of the Federated Averaging (FedAvg) algorithm using the CIFAR-10 dataset. FedAvg is a federated learning technique designed to train a machine learning model collaboratively without requiring participants to share their data.
