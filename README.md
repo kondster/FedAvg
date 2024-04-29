@@ -30,7 +30,6 @@ The implementation is split into several Python scripts, each handling a part of
 ## Project Structure
 
 ```
-.
 ├── helper.py         # Helper functions for model and data handling
 ├── client.py         # Client class implementation
 ├── server.py         # Server class implementation and Flask setup
